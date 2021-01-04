@@ -31,8 +31,10 @@ class ListNode:
         self.next = None
 
 class MyHashTable:
-    def __init__(self):
+    def __init__(self, hash_fn):
         # Your code here
+        storage = []
+        hash_fn = 
 
 
     def put(self, key, value):
