@@ -4,7 +4,7 @@ up of all English lowercase letters. However, the alphabet is possibly in a
 different order (but is some permutation of English lowercase letters).
 
 You need to write a function that, given a sequence of words written in this
-secret language, and the order the alphabet, will determine if the given words
+secret language, and the order the alien alphabet, will determine if the given words
 are sorted "alphabetically" in this secret language.
 
 The function will return a boolean value, true if the given words are sorted
